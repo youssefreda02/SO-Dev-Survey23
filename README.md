@@ -10,6 +10,7 @@ This project analyzes key trends from the Stack Overflow Developer Survey 2024, 
 
 ## Dataset
 The analysis is based on the [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/).
+I have not uploaded it because it's too large. So, Please **download** the dataset first.
 
 ## Tools & Libraries Used
 * NumPy
