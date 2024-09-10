@@ -33,13 +33,6 @@ pip install -r requirements.txt
 The analysis is provided in the notebook.ipynb file. Open it locally or view it on GitHub.
 
 
-## Insights Summary
-* Remote Work Satisfaction: A detailed breakdown of how job satisfaction is distributed across different work setups.
-* Salary Trends: Explore how compensation varies depending on work type.
-* AI Tool Adoption: Understand the impact of remote work on the adoption of AI tools in development workflows.
-* More Comparisons: Looking at the need of help from outside the team, interactions and more.
-
-
 ## Summary of the Results
 In this analysis, we explored the relationship between remote work type and various key factors like job satisfaction, total compensation, and the adoption of AI tools. We discovered notable trends, including:
 * Job satisfaction tends to be higher among remote workers compared to onsite employees.
