@@ -34,4 +34,20 @@ The analysis is provided in the notebook.ipynb file. Open it locally or view it 
 * AI Tool Adoption: Understand the impact of remote work on the adoption of AI tools in development workflows.
 * More Comparisons: Looking at the need of help from outside the team, interactions and more.
 
-.
+## Summary of the Results
+
+In this analysis, we explored the relationship between remote work type and various key factors like job satisfaction, total compensation, and the adoption of AI tools. We discovered notable trends, including:
+* Job satisfaction tends to be higher among remote workers compared to onsite employees.
+* Remote workers generally receive higher compensation than their onsite counterparts.
+* Remote and hybrid workers show a higher tendency to adopt AI tools in their workflow compared to onsite workers.
+
+Read more in the full blog post [here](https://medium.com/@yokareda10/remote-vs-onsite-this-is-what-2024-data-is-telling-us-dc6422e1148f).
+
+
+## Acknowledgements
+
+This project was completed as part of the Udacity nanodegree program. Special thanks to Stack Overflow for providing the 2024 developer survey dataset, and to the open-source community for the libraries and tools used in this analysis:
+- **Pandas** for data manipulation
+- **NumPy** for numerical operations
+- **Matplotlib** and **Seaborn** for data visualization
+- .
